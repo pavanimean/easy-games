@@ -1,6 +1,6 @@
 import random
 
-randnumber = random.randint(1,50)
+randnumber = random.randint(1, 50)
 
 print("Guess a number between 1 - 50")
 
